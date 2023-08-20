@@ -16,3 +16,10 @@ function divide(a,b)
     return result
 }
 
+// created in developerA branch 
+// modulus 
+
+function mod(a,b)
+{
+    return a%b;
+}
